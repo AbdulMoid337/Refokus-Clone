@@ -24,7 +24,7 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 
 ## Live Website
 
-Explore Refokus-Clone live: [Refokus-Clone Live](https://antra77.github.io/Refokus-Clone/)
+Explore Refokus-Clone live: https://refokuss-clone-coral.vercel.app
 
 ## Getting Started
 
